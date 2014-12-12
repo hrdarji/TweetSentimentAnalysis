@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="WebSocketTS2">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="commons-logging-1.2-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.2-javadoc/commons-logging-1.2-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-core-2.1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-core-2.1.1/jackson-core-2.1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="twitter4j-examples-4.0.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/twitter4j-examples-4.0.2/twitter4j-examples-4.0.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aws-java-sdk-1.9.8-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aws-java-sdk-1.9.8-javadoc/aws-java-sdk-1.9.8-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-codec-1.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-codec-1.6/commons-codec-1.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aws-java-sdk-1.9.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aws-java-sdk-1.9.8/aws-java-sdk-1.9.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="twitter4j-core-4.0.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/twitter4j-core-4.0.2/twitter4j-core-4.0.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="fluent-hc-4.3.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/fluent-hc-4.3.6/fluent-hc-4.3.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="httpclient-4.3.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/httpclient-4.3.6/httpclient-4.3.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aws-java-sdk-flow-build-tools-1.9.8.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aws-java-sdk-flow-build-tools-1.9.8/aws-java-sdk-flow-build-tools-1.9.8">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="httpclient-cache-4.3.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/httpclient-cache-4.3.6/httpclient-cache-4.3.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="joda-time-2.4-sources.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/joda-time-2.4-sources/joda-time-2.4-sources">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="sqlite-jdbc-3.8.7.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/sqlite-jdbc-3.8.7/sqlite-jdbc-3.8.7">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aws-java-sdk-1.9.8-sources.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aws-java-sdk-1.9.8-sources/aws-java-sdk-1.9.8-sources">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-databind-2.1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-databind-2.1.1/jackson-databind-2.1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.2/commons-logging-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="joda-time-2.4.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/joda-time-2.4/joda-time-2.4">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="httpmime-4.3.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/httpmime-4.3.6/httpmime-4.3.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.1.3/commons-logging-1.1.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="twitter4j-stream-4.0.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/twitter4j-stream-4.0.2/twitter4j-stream-4.0.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jackson-annotations-2.1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jackson-annotations-2.1.1/jackson-annotations-2.1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="joda-time-2.4-javadoc.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/joda-time-2.4-javadoc/joda-time-2.4-javadoc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="twitter4j-async-4.0.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/twitter4j-async-4.0.2/twitter4j-async-4.0.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="httpcore-4.3.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/httpcore-4.3.3/httpcore-4.3.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="twitter4j-media-support-4.0.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/twitter4j-media-support-4.0.2/twitter4j-media-support-4.0.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="WebSocketTS2"/>
+        <property name="java-output-path" value="/WebSocketTS2/build/classes"/>
+    </wb-module>
+</project-modules>
